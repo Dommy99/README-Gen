@@ -1,10 +1,10 @@
-# sjdkhf
+# README Gen
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 ## Description
-sdkjhfkj
+its kewl
 
 ## Table of Contents
 
@@ -19,19 +19,19 @@ sdkjhfkj
 undefined
 
 ## Usage
-hskjfh
+use a computer
 
 ## Contribute
-dsjkhfjka
+money and pizza
 
 ## license
 This project uses: Apache 2.0
 
 
 ## Tests
-hskjhf
+idk paper
 
 ## Questions
-kjshf
-You can reach me @ shfjk
+Dommy99
+You can reach me @ Dominiqued.akers@gamil.com
 
